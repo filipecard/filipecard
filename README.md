@@ -1,7 +1,7 @@
 ### Olá, Eu sou Filipe Cardoso.
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 I’m currently learning Flutter
+- 🌱 Atualmente estou aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" />
 
 
