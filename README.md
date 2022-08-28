@@ -2,7 +2,6 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou aprendendo Java/Spring.
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" height="30" />
 
 
 <div>
