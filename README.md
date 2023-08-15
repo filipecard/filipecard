@@ -1,7 +1,7 @@
 ### Olá, Eu sou Filipe Cardoso.
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Java / Spring / Python / Flutter / Angular 9 / Godot / Unreal / Git
+- 🔭 Sou formado no curso de Análise e Desenvolvimento de Sistemas.
+- 🌱 Java / Spring / Python / Angular 9 / Delphi / Godot / Unreal / Git
 - ☑️ Metodologias Ágeis / Análise de Projetos 
 
 
