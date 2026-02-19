@@ -1,8 +1,7 @@
 ### Olá, Eu sou Filipe Cardoso.
 
-- 🔭 Sou formado no curso de Análise e Desenvolvimento de Sistemas.
-- 🌱 Java / Spring / Python / Angular 9 / Delphi / Godot / Unreal / Git
-- ☑️ Metodologias Ágeis / Análise de Projetos 
+- 🔭 System analyst and developer
+- 🌱 Angular / Node / Delphi / Git
 
 
 <div>
@@ -15,18 +14,8 @@
  
 ### Contato
 <div>
-  <a href = "mailto:cardosof19283745@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-cardoso-a95805192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
-  
-##
-  
-### Outros
- 
-Gosto de arte digital e nas horas vagas faço uma ou outra para meu instagram, fique a vontade para apreciar ^^
-<div>
-      <a href="https://www.instagram.com/galeriarabisco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  
 ##
