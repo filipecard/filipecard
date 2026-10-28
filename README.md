@@ -50,7 +50,7 @@ Gosto de transformar problemas do dia a dia em ferramentas úteis e de explorar 
 | [**toolbox**](https://github.com/filipecard/toolbox) | Conjunto de ferramentas úteis para o dia a dia | TypeScript |
 | [**portfolio**](https://github.com/filipecard/portfolio) | Portfólio pessoal desenvolvido com Angular | Angular · CSS |
 | [**pokedex_app**](https://github.com/filipecard/pokedex_app) | Aplicativo de Pokédex para autoavaliação em Flutter | Flutter · Dart |
-| [**analise-de-odio**](https://github.com/filipecard/analise-de-odio) | Detecção de discurso de ódio com NLP e estatística | Python · NLP |
+| [**mars-rob**](https://github.com/filipecard/mars-rob ) | Um robô andando por um planeta limitado, em constante aprendizado | Typescript |
 
 ## 📊 Estatísticas
 
